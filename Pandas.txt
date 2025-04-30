@@ -1,0 +1,2 @@
+Series: 1D-Datenstruktur, einheitlicher Datentyp, repräsentiert eine einzelne Datenreihe.  
+DataFrame: 2D-Datenstruktur, mehrere Datenreihen und Spalten, kann unterschiedliche Datentypen enthalten.
