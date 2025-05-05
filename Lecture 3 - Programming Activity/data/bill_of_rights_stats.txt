@@ -1,0 +1,3 @@
+Most common word in the file: the
+Number of lines in the file: 54
+Number of words in the file: 498
